@@ -436,7 +436,14 @@ padding-top: 20px !important;
     font-size: 70px !important;
   }
   
+  .navigation .menu-icon .nav-icon {
+
+ 
+    height: 1px;
+    width: 15px !important;
+   
   
+  }
 }
 
 
