@@ -32,7 +32,7 @@ color: #55ACEE !important;
 
   }
 .navbar-brand img{
-  width: 80% !important;
+  width: 100% !important;
 }
 
 .bck{
@@ -385,6 +385,9 @@ color: #55ACEE !important;
   display: flex;
   flex-direction: column;
 
+}
+.menu-icon{
+  margin-top: 10px !important;
 }
 .fir{
   display: none !important;
